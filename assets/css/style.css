@@ -1055,6 +1055,7 @@ section {
   content: "/";
 }
 
+
 @media (max-width: 768px) {
   .breadcrumbs .d-flex {
     display: block !important;
@@ -1068,6 +1069,10 @@ section {
     display: inline-block;
   }
 }
+
+
+
+
 
 /*--------------------------------------------------------------
 # Footer
